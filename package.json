@@ -1,0 +1,31 @@
+{
+  "name": "Content-Security-Policy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saksham-gupta-au7/Content-Security-Policy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saksham-gupta-au7/Content-Security-Policy/issues"
+  },
+  "homepage": "https://github.com/saksham-gupta-au7/Content-Security-Policy#readme",
+  "dependencies": {
+    "level": "^6.0.1",
+    "lodash": "^4.17.15",
+    "nets": "^3.2.0",
+    "object-assign": "^4.1.1",
+    "sanitize-html": "^1.23.0"
+  },
+  "devDependencies": {
+    "browserify": "^11.2.0"
+  }
+}
